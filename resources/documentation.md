@@ -19,3 +19,4 @@ Documentation Tools related resources resources:
 | Tool | Description |
 | --- | --- |
 | [**ADR**](https://github.com/joelparkerhenderson/architecture-decision-record) | An architecture decision record (ADR) is a document that captures an important architecture decision made along with its context and consequences.|
+| [ADR-Tools](https://github.com/npryce/adr-tools)  | A cli to help write ADR's.
